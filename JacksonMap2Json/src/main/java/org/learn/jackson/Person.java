@@ -4,8 +4,7 @@ public class Person {
 	public String firstName;
 	public String lastName;
 	public int age;
-	public Person() {
-		
+	public Person() {		
 	}
 	public Person(String firstName, String lastName,
 				int age) {
